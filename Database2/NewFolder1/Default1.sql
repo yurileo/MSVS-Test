@@ -1,4 +1,4 @@
 ﻿скрипт
 
 отредактирован 
-в VS
+в Internet Explorer
